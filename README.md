@@ -20,7 +20,7 @@ _COMEÇO DO HTML_
 
 ( X ) Fazer também dentro da main, a segunda section ( Que é aonde fica as informações finais do site ).
 
-**OBS: Fazer a div dentro da section antes de qualquer coisa.**
+**OBS: Fazer a div dentro da section antes de qualquer coisa, para poder separar a logo do texto.**
 
 ( x ) Colocar a imagem final da BALLERINI no footer.
 
