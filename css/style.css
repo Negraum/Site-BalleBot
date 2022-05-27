@@ -125,3 +125,16 @@ body {
   display: block;
   margin: 0 auto;
 }
+
+body::-webkit-scrollbar {
+  width: 12px;
+}
+
+body::-webkit-scrollbar-track {
+  background: rgb(243, 228, 200);
+}
+
+body::-webkit-scrollbar-thumb {
+  border-radius: 20px;
+  border: 2px solid rgb(61, 58, 53);
+}
